@@ -14,5 +14,5 @@
 <br>(something like that)<br>
 
 # 5. Optional: Do the same for the 'Address 2 - Formatted' column.
-# 6. Run the Python code (check input/output path in the code).
+# 6. Run the Python code (change input/output path in the code before running it).
 # If any problems arise, I suggest asking an LLM like ChatGPT.
