@@ -4,12 +4,13 @@
 # 3. Get 'Geocode by Awesome Table' extension for Google Sheets (may only be possible in the Chrome browser).
 # 4. Geocode the 'Address 1 - Formatted' column (check the Longitude/Latitude columns for the right formatting).
 # 5. Optional: Do the same for the 'Address 2 - Formatted' column.
-# 6. Run this code (check input/output path).
+# 6. Run this code (change input/output path before!).
 # If any problems arise, I suggest asking an LLM like ChatGPT.
 
 import csv
 
 # Constants
+# CHANGE INPUT/OUTPUT PATHS HERE:
 INPUT_CSV_FILE = r'path\to\your\file\contacts.csv'
 OUTPUT_KML_FILE = r'desired\output\path\contacts.kml'
 
