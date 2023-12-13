@@ -17,5 +17,6 @@ If it's wrong, change the the country/language setting in the file settings to '
 You then have to rename the new Longitude and Latitude columns to 'Longitude 2' and 'Latitude 2'<br>
 <img width="277" alt="image" src="https://github.com/krischimk/Google-Contacts-to-Google-Earth/assets/121830124/106d5136-398f-45c9-b7d9-32b32f806652">
 
-# 6. Run the Python code (change input/output path in the code before running it).
+# 6. Download file as CSV
+# 7. Run the Python code (change input/output path in the code before running it).
 # If any problems arise, I suggest asking an LLM like ChatGPT.
